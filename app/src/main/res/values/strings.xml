@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Home Controller</string>
+    <string name="login_button">Log In</string>
+    <string name="error_message">Curently No Errors</string>
+    <string name="username">email</string>
+    <string name="password">password</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperatureButton">Send Request</string>
+    <string name="alert">Alert</string>
+    <string name="alertButton">Turn On</string>
+    <string name="updateButtonId">Update</string>
+</resources>
